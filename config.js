@@ -10,7 +10,7 @@ window.RAF_CONFIG = {
   },
 
   // Google Cloud → Drive API anahtarı. Drive'daki PDF'lerin sayfa sayfa açılması için gerekli.
-  driveApiKey: "",
+  driveApiKey: "AIzaSyAuCbLAIsgknW0OFE00aPpqHAkQS6Y93fw",
 
   // Yalnızca Firebase kapalıyken (demo) geçerli kilit şifresi.
   demoPassword: "timas"
